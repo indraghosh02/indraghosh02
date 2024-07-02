@@ -12,6 +12,8 @@ Dedicated and adaptable web developer and researcher with a passion for academia
 </p>
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indraghosh02&theme=dark&card_width=1000)
+
 ## :computer: Technologies that I know
 
 <br>
