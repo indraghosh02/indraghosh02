@@ -1,2 +1,2 @@
 
-![Example Image](https://i.ibb.co/LP7JGD3/Abstract-Slide-1.png)
+![Example Image](https://i.ibb.co/KK2NrJ8/Picture3.png)
