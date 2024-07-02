@@ -12,9 +12,7 @@ Dedicated and adaptable web developer and researcher with a passion for academia
 </p>
 <br />
 
-## :computer: Technologies that I know
-
-## Skills/Technologies I Know
+## :computer: Technologies I know
 <p align="center">
   <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML5" title="HTML5" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS3" title="CSS3" width="50" height="50" style="margin-right: 20px;" />
