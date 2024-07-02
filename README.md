@@ -19,15 +19,14 @@ Dedicated and adaptable web developer and researcher with a passion for academia
   <img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React" title="React" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/color/50/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" title="JavaScript" width="50" height="50" style="margin-right: 20px;" />
-  <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js" width="50" height="50" style="margin-right: 20px;" />
+  
 </p>
 
 <p align="center">
+  <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase" title="Firebase" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/ios/50/000000/c.png" alt="C" title="C" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="50" height="50" style="margin-right: 20px;" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/ethereum.png" alt="Solidity" title="Solidity" width="50" height="50" style="margin-right: 20px;" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/laravel.png" alt="Laravel" title="Laravel" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git" width="50" height="50" style="margin-right: 20px;" />
 </p>
 
