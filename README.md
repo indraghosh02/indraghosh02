@@ -26,7 +26,7 @@ Dedicated and adaptable web developer and researcher with a passion for academia
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/inraghosh02/c.png"/>
+<img src="https://github.com/indraghosh02/c.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
   <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 </p>
