@@ -7,7 +7,7 @@ Dedicated and adaptable web developer and researcher with a passion for academia
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/indra-ghosh/)
 &nbsp;&nbsp;
-[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/shahoriarniloy)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/indra.priya.564)
 
 ## :chart_with_upwards_trend: Current Stats
 
