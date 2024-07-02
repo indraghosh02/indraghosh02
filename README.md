@@ -3,6 +3,11 @@
 
 ## About me
 Dedicated and adaptable web developer and researcher with a passion for academia and development. Motivated to contribute to a dynamic team, leveraging technical skills and problem-solving abilities. Committed to achieving goals through hard work and consistent effort, and eager to make a meaningful impact in a challenging environment
+##  📬: Reach Me
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shahoriarniloy/)
+&nbsp;&nbsp;
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/shahoriarniloy)
 
 ## :chart_with_upwards_trend: Current Stats
 
